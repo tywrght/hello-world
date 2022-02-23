@@ -1,3 +1,3 @@
 firstName = input("Enter Your  First Name")
-secondName = input("Enter your name")
-test = input("Say hello")
+lastName = input("Enter your Last Name")
+fullName = ("Your name is " + firstName + " " + secondName)
